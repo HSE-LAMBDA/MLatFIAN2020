@@ -1,5 +1,9 @@
 # Homework
 
+**If you haven't started yet, instead of what's described below please do [this notebook](https://github.com/HSE-LAMBDA/MLatFIAN2020/blob/master/seminar07/MLatFIAN2020_seminar07_homework_alternative.ipynb).**
+
+Otherwise, do this:
+
  - Read the docs about stacking:
    - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html
    - https://scikit-learn.org/stable/modules/ensemble.html#stacking
